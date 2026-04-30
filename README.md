@@ -8,7 +8,7 @@ This project presents a **Behaviour Analysis Dashboard** built using **Microsoft
 ## Key Metrics
 - **Total Revenue:** 3.52M  
 - **Total Orders:** 1,000  
-- **Total Profit:** 704K  
+- **Total Profit:** 704K  Calculated as per 20% per order
 - **Average Delivery Time:** 5.53 days  
 - **Average Revenue per Order:** $3.5K  
 
