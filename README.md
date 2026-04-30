@@ -80,14 +80,6 @@ This project presents a **Behaviour Analysis Dashboard** built using **Microsoft
 
 ---
 
-## Recommendations
-- Leverage high-performing months with strategic campaigns  
-- Reduce dependency on a few top products  
-- Expand operations in low-performing regions  
-- Optimize delivery time and logistics  
-- Implement customer segmentation for deeper insights  
-
----
 
 ## Conclusion
 This dashboard provides a comprehensive view of sales and customer behavior, converting raw data into meaningful insights. It demonstrates strong capabilities in **data analysis, visualization, and business intelligence**, making it valuable for both operational and strategic decision-making.
